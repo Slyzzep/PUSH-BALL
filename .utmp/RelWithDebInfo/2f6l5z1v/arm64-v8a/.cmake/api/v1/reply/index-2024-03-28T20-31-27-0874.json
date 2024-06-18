@@ -1,0 +1,92 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Ninja"
+		},
+		"paths" : 
+		{
+			"cmake" : "F:/My/unity/2023.2.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/cmake.exe",
+			"cpack" : "F:/My/unity/2023.2.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/cpack.exe",
+			"ctest" : "F:/My/unity/2023.2.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ctest.exe",
+			"root" : "F:/My/unity/2023.2.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/share/cmake-3.22"
+		},
+		"version" : 
+		{
+			"isDirty" : true,
+			"major" : 3,
+			"minor" : 22,
+			"patch" : 1,
+			"string" : "3.22.1-g37088a8-dirty",
+			"suffix" : "g37088a8"
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-4dc636e9c94ab9d844d5.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 3
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-e635e88d77759c0fa4eb.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "cmakeFiles-v1-2b173541767003836b0c.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"client-agp" : 
+		{
+			"cache-v2" : 
+			{
+				"jsonFile" : "cache-v2-e635e88d77759c0fa4eb.json",
+				"kind" : "cache",
+				"version" : 
+				{
+					"major" : 2,
+					"minor" : 0
+				}
+			},
+			"cmakeFiles-v1" : 
+			{
+				"jsonFile" : "cmakeFiles-v1-2b173541767003836b0c.json",
+				"kind" : "cmakeFiles",
+				"version" : 
+				{
+					"major" : 1,
+					"minor" : 0
+				}
+			},
+			"codemodel-v2" : 
+			{
+				"jsonFile" : "codemodel-v2-4dc636e9c94ab9d844d5.json",
+				"kind" : "codemodel",
+				"version" : 
+				{
+					"major" : 2,
+					"minor" : 3
+				}
+			}
+		}
+	}
+}

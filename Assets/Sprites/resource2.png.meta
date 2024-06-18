@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 70d347d28dac98b4c9844d5cafb5b03f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5904929963889478460
+    second: resource2_0
+  - first:
+      213: -4747252696685428351
+    second: resource2_1
+  - first:
+      213: 7708205811376744196
+    second: resource2_2
+  - first:
+      213: 5933512683434833177
+    second: resource2_3
+  - first:
+      213: -7594965437329877140
+    second: resource2_4
+  - first:
+      213: -2599654257152204189
+    second: resource2_5
+  - first:
+      213: 5322142739573370196
+    second: resource2_6
+  - first:
+      213: 8674218069399522258
+    second: resource2_7
+  - first:
+      213: -8334903498328173727
+    second: resource2_8
+  - first:
+      213: 5979711405767150946
+    second: resource2_9
+  - first:
+      213: 3713964158195239416
+    second: resource2_10
+  - first:
+      213: -5938854564191973828
+    second: resource2_11
+  - first:
+      213: -2814055136423116696
+    second: resource2_12
+  - first:
+      213: -8017810616255878069
+    second: resource2_13
+  - first:
+      213: -3919637174242602091
+    second: resource2_14
+  - first:
+      213: 4927388054691248282
+    second: resource2_15
+  - first:
+      213: 3197748051629375180
+    second: resource2_16
+  - first:
+      213: 5847665695811714192
+    second: resource2_17
+  - first:
+      213: 6752172922172707316
+    second: resource2_18
+  - first:
+      213: -2185817944876534265
+    second: resource2_19
+  - first:
+      213: -5661449314734913999
+    second: resource2_20
+  - first:
+      213: 1869753360249549732
+    second: resource2_21
+  - first:
+      213: -2380915414681784083
+    second: resource2_22
+  - first:
+      213: 329297620273190328
+    second: resource2_23
+  - first:
+      213: -2631036192680280049
+    second: resource2_24
+  - first:
+      213: -3049496980327427298
+    second: resource2_25
+  - first:
+      213: 5918458628859536765
+    second: resource2_26
+  - first:
+      213: -5007614476927298504
+    second: resource2_27
+  - first:
+      213: -3518435298213742319
+    second: resource2_28
+  - first:
+      213: 3120213830453295006
+    second: resource2_29
+  - first:
+      213: -8037970986681612693
+    second: resource2_30
+  - first:
+      213: 1759898410704526893
+    second: resource2_31
+  - first:
+      213: 1538716852014101820
+    second: resource2_32
+  - first:
+      213: -3624431505140954078
+    second: resource2_33
+  - first:
+      213: -7778250049182748783
+    second: resource2_34
+  - first:
+      213: 5857944316420603816
+    second: resource2_35
+  - first:
+      213: -5576105381395021456
+    second: resource2_36
+  - first:
+      213: 2469842851360346817
+    second: resource2_37
+  - first:
+      213: 4601026205586743121
+    second: resource2_38
+  - first:
+      213: 908141359824133098
+    second: resource2_39
+  - first:
+      213: 7718780332905651886
+    second: resource2_40
+  - first:
+      213: -1803383357465063428
+    second: resource2_41
+  - first:
+      213: 3039133146399239305
+    second: resource2_42
+  - first:
+      213: -5252761895308041302
+    second: resource2_43
+  - first:
+      213: -5125831536788192486
+    second: resource2_44
+  - first:
+      213: 6563815530091021368
+    second: resource2_45
+  - first:
+      213: -6202377732365934994
+    second: resource2_46
+  - first:
+      213: 5751512307902715255
+    second: resource2_47
+  - first:
+      213: -551456850676130972
+    second: resource2_48
+  - first:
+      213: 2797820414861224523
+    second: resource2_49
+  - first:
+      213: 8729252155669978996
+    second: resource2_50
+  - first:
+      213: 7662581565254017554
+    second: resource2_51
+  - first:
+      213: 1179383657235585995
+    second: resource2_52
+  - first:
+      213: 6501504597115093302
+    second: resource2_53
+  - first:
+      213: -8164777204667906286
+    second: resource2_54
+  - first:
+      213: -4442177332837429558
+    second: resource2_55
+  - first:
+      213: -4988324812298753840
+    second: resource2_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spikerwall1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 524
+        width: 101
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4bec6cb797d0ea0800000000000000
+      internalID: -5904929963889478460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutor1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 930
+        width: 577
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181cc0b03de5e1eb0800000000000000
+      internalID: -4747252696685428351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 819
+        width: 375
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5d3c1e076e19400800000000000000
+      internalID: 329297620273190328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LVL
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 723
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceceee50473a52c0800000000000000
+      internalID: -4442177332837429558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikewall2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 415
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86aa23309e5cab0800000000000000
+      internalID: -4988324812298753840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3813f545b685ec24bb9180dece8791fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LVL: -4442177332837429558
+      Tutor1: -4747252696685428351
+      spikerwall1: -5904929963889478460
+      spikewall2: -4988324812298753840
+      tutor2: 329297620273190328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

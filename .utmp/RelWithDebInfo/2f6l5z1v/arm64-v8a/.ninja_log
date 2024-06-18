@@ -1,0 +1,21 @@
+# ninja log v5
+133	6750	7277512984800211	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	fdf68f3b938fa1c4
+9	7637	7277513045845271	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	188808ef5b45ad56
+101	7213	7277513036755298	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5b8ca960b888b804
+26	7222	7277513033055249	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ffc86ff243a26b27
+33	7641	7277513051414215	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ecaf981c7cf7a98e
+108	7199	7277513034476228	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7dc5ff9e56f3717e
+20	7198	7277513033617997	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d80070e7363c74f6
+117	7230	7277513038425947	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	31267e5a67b93bd2
+6751	7651	7277513049287188	F:/My/unityprojects/PUSH BALL/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f6l5z1v/obj/arm64-v8a/libswappywrapper.so	e6543b44bda32acd
+7641	8042	7277513057821460	F:/My/unityprojects/PUSH BALL/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f6l5z1v/obj/arm64-v8a/libgame.so	973ba1e02c2a600c
+81	2572	7333610921489596	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	fdf68f3b938fa1c4
+2574	6577	7333610948126218	F:/My/unityprojects/PUSH BALL/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f6l5z1v/obj/arm64-v8a/libswappywrapper.so	e6543b44bda32acd
+73	9219	7333610987947977	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7dc5ff9e56f3717e
+66	10962	7333610982308077	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5b8ca960b888b804
+60	10964	7333610993237758	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	31267e5a67b93bd2
+53	11011	7333610996906241	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d80070e7363c74f6
+36	11236	7333611003274178	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ecaf981c7cf7a98e
+17	11238	7333611005715432	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	188808ef5b45ad56
+30	11241	7333610994482574	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ffc86ff243a26b27
+11241	11789	7333611011939723	F:/My/unityprojects/PUSH BALL/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f6l5z1v/obj/arm64-v8a/libgame.so	973ba1e02c2a600c
